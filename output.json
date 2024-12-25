@@ -1,0 +1,146 @@
+{
+  "lat": "50.4501N",
+  "lon": "30.5234E",
+  "elevation": 167,
+  "timezone": "Europe/Kyiv",
+  "units": "metric",
+  "current": null,
+  "hourly": null,
+  "daily": {
+    "data": [
+      {
+        "day": "2024-12-24",
+        "weather": "overcast",
+        "icon": 7,
+        "summary": "Cloudy during the day, fog by evening. Temperature -1/1 °C.",
+        "all_day": {
+          "weather": "overcast",
+          "icon": 7,
+          "temperature": 0.0,
+          "temperature_min": -1.5,
+          "temperature_max": 1.2,
+          "wind": { "speed": 1.9, "dir": "ESE", "angle": 102 },
+          "cloud_cover": { "total": 96 },
+          "precipitation": { "total": 0.0, "type": "none" }
+        },
+        "morning": null,
+        "afternoon": null,
+        "evening": null
+      },
+      {
+        "day": "2024-12-25",
+        "weather": "overcast",
+        "icon": 7,
+        "summary": "Cloudy. Temperature 0/1 °C.",
+        "all_day": {
+          "weather": "overcast",
+          "icon": 7,
+          "temperature": 0.0,
+          "temperature_min": -0.5,
+          "temperature_max": 0.5,
+          "wind": { "speed": 2.7, "dir": "NNE", "angle": 29 },
+          "cloud_cover": { "total": 97 },
+          "precipitation": { "total": 0.0, "type": "none" }
+        },
+        "morning": null,
+        "afternoon": null,
+        "evening": null
+      },
+      {
+        "day": "2024-12-26",
+        "weather": "overcast",
+        "icon": 7,
+        "summary": "Cloudy. Temperature -1/1 °C.",
+        "all_day": {
+          "weather": "overcast",
+          "icon": 7,
+          "temperature": -0.5,
+          "temperature_min": -0.8,
+          "temperature_max": 0.5,
+          "wind": { "speed": 3.3, "dir": "NE", "angle": 41 },
+          "cloud_cover": { "total": 97 },
+          "precipitation": { "total": 0.0, "type": "none" }
+        },
+        "morning": null,
+        "afternoon": null,
+        "evening": null
+      },
+      {
+        "day": "2024-12-27",
+        "weather": "overcast",
+        "icon": 7,
+        "summary": "Cloudy. Temperature -1/0 °C.",
+        "all_day": {
+          "weather": "overcast",
+          "icon": 7,
+          "temperature": -1.0,
+          "temperature_min": -1.2,
+          "temperature_max": -0.2,
+          "wind": { "speed": 2.9, "dir": "NE", "angle": 45 },
+          "cloud_cover": { "total": 93 },
+          "precipitation": { "total": 0.0, "type": "none" }
+        },
+        "morning": null,
+        "afternoon": null,
+        "evening": null
+      },
+      {
+        "day": "2024-12-28",
+        "weather": "overcast",
+        "icon": 7,
+        "summary": "Cloudy. Temperature -3/-1 °C.",
+        "all_day": {
+          "weather": "overcast",
+          "icon": 7,
+          "temperature": -2.2,
+          "temperature_min": -2.8,
+          "temperature_max": -1.5,
+          "wind": { "speed": 1.5, "dir": "NE", "angle": 36 },
+          "cloud_cover": { "total": 99 },
+          "precipitation": { "total": 0.0, "type": "none" }
+        },
+        "morning": null,
+        "afternoon": null,
+        "evening": null
+      },
+      {
+        "day": "2024-12-29",
+        "weather": "fog",
+        "icon": 9,
+        "summary": "Fog. Temperature -2/0 °C.",
+        "all_day": {
+          "weather": "fog",
+          "icon": 9,
+          "temperature": -0.8,
+          "temperature_min": -1.8,
+          "temperature_max": 0.0,
+          "wind": { "speed": 0.8, "dir": "W", "angle": 261 },
+          "cloud_cover": { "total": 99 },
+          "precipitation": { "total": 0.0, "type": "none" }
+        },
+        "morning": null,
+        "afternoon": null,
+        "evening": null
+      },
+      {
+        "day": "2024-12-30",
+        "weather": "overcast",
+        "icon": 7,
+        "summary": "Cloudy. Temperature 0/1 °C.",
+        "all_day": {
+          "weather": "overcast",
+          "icon": 7,
+          "temperature": 0.5,
+          "temperature_min": 0.0,
+          "temperature_max": 1.0,
+          "wind": { "speed": 1.8, "dir": "SSW", "angle": 200 },
+          "cloud_cover": { "total": 99 },
+          "precipitation": { "total": 0.0, "type": "none" }
+        },
+        "morning": null,
+        "afternoon": null,
+        "evening": null
+      }
+    ]
+  }
+}
